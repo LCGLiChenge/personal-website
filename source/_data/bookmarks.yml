@@ -1,0 +1,7 @@
+- category: Mathematical principles of models # <-- 顶部分类名称
+  icon: fa-folder # 分类图标
+  items:
+    - name: Transformer # <-- 按钮名称
+      link: /transformer-pdf/ # <-- 链接路径（下一步需要创建这个页面）
+      description: Mathematical principles of Transformer (MIT)
+      image: # 可以添加小图标URL，此处留空

@@ -210,14 +210,8 @@ navbar:
       icon: fa-regular fa-house # can be empty
 
     Notes:
-      path: /Notes                     
-      icon: fa-regular fa-lightbulb 
-      #submenus:                 # <-- 下拉菜单开始
-        # 将“Mathematical principles of models”设置为一个“组名”
-        #Mathematical principles of models: # 注意：这里不要设置 path
-          
-          # “Transformer”作为实际的链接
-          #Transformer: /Notes/models_math/transformer # <-- 三级链接路径
+      path: /bookmarks/ # <-- 链接到您在步骤一创建的 /bookmarks/ 页面
+      icon: fa-regular fa-lightbulb
     # Archives: 
     #   path: /archives 
     #   icon: fa-regular fa-archive # can be empty
@@ -258,6 +252,9 @@ home:
     announcement: # Announcement text
     show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
     links:
+      Notes: # <-- 新增一个链接到 Notes 页面
+        path: /bookmarks/
+        icon: fa-regular fa-lightbulb
       # Archives: 
       #   path: /archives 
       #   icon: fa-regular fa-archive # can be empty

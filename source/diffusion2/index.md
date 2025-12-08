@@ -1,11 +1,11 @@
 ---
-title: Flow matching and Diffusion Models1
-date: 2025-11-27 20:49:41
+title: diffusion2
+date: 2025-12-03 14:36:25
 type: "page"
 ---
 
 <iframe 
-  src="/files/Notes/models_math/Diffusion/diffusion1.pdf" 
+  src="/files/Notes/models_math/Diffusion/Lecture2.pdf" 
   width="100%" 
   height="800px" 
   style="border: none;"

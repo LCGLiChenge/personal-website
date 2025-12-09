@@ -21,6 +21,11 @@
       description: Lecture 3 of Flow Matching and Diffusion Models (MIT)
       image: # 可以添加小图标URL，此处留空
 
+    - name: Flow Matching and Diffusion Models 4 # <-- 按钮名称
+      link: /diffusion4/ # <-- 链接路径（下一步需要创建这个页面）
+      description: Lecture 4 of Flow Matching and Diffusion Models (MIT)
+      image: # 可以添加小图标URL，此处留空
+
 - category: UCB CS61B # <-- 顶部分类名称
   icon: fa-folder # 分类图标
   items:
